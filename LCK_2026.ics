@@ -1223,7 +1223,7 @@ DTSTAMP:20260906T000000Z
 DTSTART;TZID=Asia/Seoul:20260906T170000
 DTEND;TZID=Asia/Seoul:20260906T200000
 SUMMARY:[LCK] T1 vs DK
-DESCRIPTION:Tournament: LCK 2026\nStage: Season Playoffs - Upper Bracket Round 2\nMatch: T1 vs DK\nFormat: BO5
+DESCRIPTION:Tournament: LCK 2026\nStage: Season Playoffs - Lower Bracket Round 2\nMatch: T1 vs DK\nFormat: BO5
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
